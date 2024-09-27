@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+gdown
+numba
+numpy
+pandas
+scikit-learn
+seaborn
+statsmodels
