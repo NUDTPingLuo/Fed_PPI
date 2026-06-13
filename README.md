@@ -3,7 +3,7 @@
 This repository contains the official implementation of the paper:
 
 **Federated Prediction-Powered Inference from Decentralized Data**  
-[Ping Luo], [Deng Xiaoge], [Wen, Ziqing] [Sun Tao], [Li, Dongsheng]  
+[Ping Luo], [Jiahuan Wang], [Ziqing Wen] [Tao Sun], [Dongsheng, Li]  
 arXiv: [https://arxiv.org/abs/2409.01730](https://arxiv.org/abs/2409.01730)
 
 This work extends the **Prediction-Powered Inference (PPI)** framework to the federated learning setting, enabling statistically valid inference under data decentralization and distribution shift. We propose new protocols and algorithms that preserve statistical efficiency without centralizing the data.
@@ -30,7 +30,7 @@ If you find this repository useful, please consider citing:
 ```bibtex
 @article{luo2024federated,
   title={Federated Prediction-Powered Inference from Decentralized Data},
-  author={Luo, Ping and Deng, Xiaoge and Wen, Ziqing and Sun, Tao and Li, Dongsheng},
+  author={Ping, Luo and Jiahuan, Wang and Ziqing, Wen and Tao, Sun and Dongsheng, Li},
   journal={arXiv preprint arXiv:2409.01730},
   year={2024}
 }
